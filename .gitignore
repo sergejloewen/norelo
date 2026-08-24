@@ -7,6 +7,7 @@
 
 # Java / Maven
 target/
+**/target/
 *.class
 
 # Node
