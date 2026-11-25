@@ -9,6 +9,20 @@ for small teams.
 
 Early development — Foundation phase.
 
+## Development Roadmap
+
+The following roadmap outlines the next major development milestones. It is a high-level overview and may evolve as the project progresses.
+
+- [x] Establish frontend and backend foundations
+- [ ] Integrate PostgreSQL and database migrations
+- [ ] Implement the initial persistence layer and domain models
+- [ ] Implement user authentication and account management
+- [ ] Build the login and authentication UI
+- [ ] Connect the frontend to the backend API
+- [ ] Implement core project and task management features
+- [ ] Introduce collaboration features for small teams
+- [ ] Prepare the application for deployment
+
 ## Architecture
 
 Norelo is developed as a monorepo containing:
